@@ -1,3 +1,7 @@
+> [!NOTE]
+> This is a fork of the original [VSoft.System.Console](https://github.com/VSoftTechnologies/VSoft.System.Console) project, created only for submitting pull-requests. This repo may or may not be ahead of the original repo. Please do not fork this or submit issues here--do that on the original repo.
+
+
 # VSoft.System.Console
 
 A Delphi port of the dotnet System.Console class.
